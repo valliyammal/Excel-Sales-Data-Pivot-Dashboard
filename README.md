@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is an interactive Excel Sales Dashboard created using a sales dataset.
+![Sales Dashboard](Sales_Dashboard.png)
 
 ## Tools Used
 - Microsoft Excel
